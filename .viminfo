@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1681257130,,"wq"
+|2,0,1682429666,,"wq"
 :w
 |2,0,1681256032,,"w"
 :q!
@@ -48,34 +48,46 @@
 |3,1,36,0,1,0,1677795176," "
 
 # File marks:
-'0  1  0  ~/alx-low_level_programming/0x15-file_io/ls
-|4,48,1,0,1681257130,"~/alx-low_level_programming/0x15-file_io/ls"
-'1  13  5  ~/alx-low_level_programming/0x15-file_io/main.h
-|4,49,13,5,1681257081,"~/alx-low_level_programming/0x15-file_io/main.h"
-'2  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
-|4,50,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
-'3  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
-|4,51,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
-'4  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,52,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
-'5  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,53,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
-'6  314  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
-|4,54,314,0,1681256827,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
-'7  45  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
-|4,55,45,0,1681256773,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
-'8  23  0  ~/alx-low_level_programming/0x15-file_io/1-main.c
-|4,56,23,0,1681256763,"~/alx-low_level_programming/0x15-file_io/1-main.c"
-'9  28  0  ~/alx-low_level_programming/0x15-file_io/0-read_textfile.c
-|4,57,28,0,1681256753,"~/alx-low_level_programming/0x15-file_io/0-read_textfile.c"
+'0  1  0  ~/simple_shell/three.c
+|4,48,1,0,1682429666,"~/simple_shell/three.c"
+'1  1  0  ~/alx-low_level_programming/0x15-file_io/ls
+|4,49,1,0,1681257130,"~/alx-low_level_programming/0x15-file_io/ls"
+'2  13  5  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,50,13,5,1681257081,"~/alx-low_level_programming/0x15-file_io/main.h"
+'3  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,51,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
+'4  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,52,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+'5  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,53,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+'6  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
+|4,54,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
+'7  314  0  ~/alx-low_level_programming/0x15-file_io/100-elf_header.c
+|4,55,314,0,1681256827,"~/alx-low_level_programming/0x15-file_io/100-elf_header.c"
+'8  45  0  ~/alx-low_level_programming/0x15-file_io/1-create_file.c
+|4,56,45,0,1681256773,"~/alx-low_level_programming/0x15-file_io/1-create_file.c"
+'9  23  0  ~/alx-low_level_programming/0x15-file_io/1-main.c
+|4,57,23,0,1681256763,"~/alx-low_level_programming/0x15-file_io/1-main.c"
 
 # Jumplist (newest first):
+-'  1  0  ~/simple_shell/three.c
+|4,39,1,0,1682429666,"~/simple_shell/three.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/ls
+|4,39,1,0,1681257130,"~/alx-low_level_programming/0x15-file_io/ls"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/ls
 |4,39,1,0,1681257130,"~/alx-low_level_programming/0x15-file_io/ls"
 -'  13  5  ~/alx-low_level_programming/0x15-file_io/main.h
 |4,39,13,5,1681257081,"~/alx-low_level_programming/0x15-file_io/main.h"
 -'  13  5  ~/alx-low_level_programming/0x15-file_io/main.h
 |4,39,13,5,1681257081,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  13  5  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,13,5,1681257081,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  13  5  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,13,5,1681257081,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1681257066,"~/alx-low_level_programming/0x15-file_io/main.h"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
+|4,39,1,0,1681257066,"~/alx-low_level_programming/0x15-file_io/main.h"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
 |4,39,1,0,1681257066,"~/alx-low_level_programming/0x15-file_io/main.h"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/main.h
@@ -88,6 +100,22 @@
 |4,39,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
 -'  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
 |4,39,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  2  11  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,2,11,1681257045,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,1,0,1681257030,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,1,0,1681257030,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,1,0,1681257030,"~/alx-low_level_programming/0x15-file_io/README.md"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/README.md
+|4,39,1,0,1681257030,"~/alx-low_level_programming/0x15-file_io/README.md"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/README.md
 |4,39,1,0,1681257030,"~/alx-low_level_programming/0x15-file_io/README.md"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/README.md
@@ -112,6 +140,38 @@
 |4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
 -'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
 |4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  103  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,103,0,1681256974,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
+-'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
+|4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
 |4,39,1,0,1681256955,"~/alx-low_level_programming/0x15-file_io/3-cp.c"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/3-cp.c
@@ -160,6 +220,38 @@
 |4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
 -'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
 |4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
+-'  22  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
+|4,39,22,0,1681256934,"~/alx-low_level_programming/0x15-file_io/2-main.c"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
 |4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
@@ -178,100 +270,12 @@
 |4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
 -'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
 |4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-main.c
-|4,39,1,0,1681256922,"~/alx-low_level_programming/0x15-file_io/2-main.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  42  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,42,0,1681256900,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
--'  1  0  ~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c
-|4,39,1,0,1681256884,"~/alx-low_level_programming/0x15-file_io/2-append_text_to_file.c"
 
 # History of marks within files (newest to oldest):
+
+> ~/simple_shell/three.c
+	*	1682429663	0
+	"	1	0
 
 > ~/alx-low_level_programming/0x15-file_io/ls
 	*	1681257129	0
@@ -1612,10 +1616,3 @@
 	+	9	36
 	+	12	0
 	+	14	0
-
-> ~/alx-low_level_programming/0x0C-more_malloc_free/main.h
-	*	1679006456	0
-	"	17	0
-	^	17	0
-	.	18	0
-	+	18	0
